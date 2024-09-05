@@ -5,7 +5,7 @@
 *.log
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.mtj.tmp
 
 # Package Files #
 *.jar
@@ -26,22 +26,22 @@ replay_pid*
 # Eclipse project files
 /.project
 /.classpath
-/.settings/
+/.settings
 
 # Java build files
-/bin/
-/build/
+/bin
+/build
 
 # IntelliJ IDEA project files
-/.idea/
+/.idea
 /*.iml
 
 # Maven specific files
-/target/
+/target
 
 # Gradle specific files
-/.gradle/
-/build/
+/.gradle
+/build
 
 # macOS files
 .DS_Store
