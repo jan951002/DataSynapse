@@ -1,4 +1,4 @@
-package proyecto_CFDP;
+package com.poli.cfdp.datasynapse;
 
 import java.io.File;
 import java.io.PrintWriter;
@@ -13,7 +13,7 @@ public class GenerateInfoFiles {
 
     /**
      * Crea un archivo de ventas para un vendedor específico.
-     * 
+     *
      * @param randomSalesCount El número de ventas aleatorias a generar.
      * @param vendedor         Un array con la información del vendedor
      *                         [tipoDocumento, numeroDocumento, nombres, apellidos].
@@ -48,7 +48,7 @@ public class GenerateInfoFiles {
 
     /**
      * Genera un ID de producto corto y aleatorio.
-     * 
+     *
      * @return Un String de 8 caracteres alfanuméricos.
      */
     private static String generateShortProductId() {
@@ -64,7 +64,7 @@ public class GenerateInfoFiles {
     /**
      * Crea un archivo con la información de los vendedores y devuelve la
      * información generada.
-     * 
+     *
      * @return Una matriz de String con la información de los vendedores generada.
      * @throws Exception Si ocurre un error al escribir el archivo.
      */

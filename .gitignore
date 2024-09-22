@@ -48,3 +48,4 @@ replay_pid*
 
 # Windows files
 Thumbs.db
+*.txt
