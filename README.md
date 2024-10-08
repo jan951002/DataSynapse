@@ -1,6 +1,6 @@
 # DataSynapse
 
-## Proyecto CFDP
+## Conclusiones Proyecto CFDP
 
 ### 1. Lo aprendido durante el desarrollo del proyecto
 
